@@ -1,80 +1,118 @@
-<!-- Animated typing header -->
+<!-- Animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1700&pause=800&color=60A5FA&background=00000000&center=true&vCenter=true&width=900&lines=YOO!!%20%2C%20I'm%20AADHIASARANA%20T;AI%20Enthusiast%20🤖;Full%20stack%20developer💻;Summoning%20Apps%20from%20Imagination%20🌌;B.Tech%20Student%20in%20AI%20%26%20DS%20🎓;From%20Logic%20to%20Magic%20🌠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1700&pause=800&color=60A5FA&background=00000000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+AADHIASARANA+T;AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Summoning+Apps+from+Imagination+%F0%9F%8C%8C;B.Tech+AI+%26+DS+%F0%9F%8E%93;From+Logic+to+Magic+%F0%9F%8C%A0" alt="Typing intro" />
 </p>
 
-<!-- Slim animated divider -->
+<!-- Slim divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
 </p>
 
-## About
+## About Me
 
-<!-- Animated subheader -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=700&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&lines=Turning+ideas+into+shipping+products;Java+%7C+OpenCV+%7C+Web+%7C+Android;Dark%2C+elegant%2C+and+performant" alt="About animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=700&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&lines=Web+%26+App+Development;AI%2FML+systems;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="About animation" />
 </p>
 
-- Passion: AI, Computer Vision, and full‑stack builds with real‑world impact.  
-- Strengths: Java services, OpenCV pipelines, Android + Firebase integrations.  
-- Mission: Clean code, strong UX, and continuous shipping.  
+- 2nd‑year AI&DS student exploring AI/ML, web, and mobile apps.  
+- Currently learning: Python, C, JS; React, Node.js, Flask; Japanese.  
+- Goals: Build elegant apps, contribute to open source, and level up daily.  
+- Fun: Tech × creativity, and a bit of 日本語 practice.
 
-## Tech Stack (logos only)
+## 🌐 Socials
+<p>
+  <a href="mailto:aadhiasarana12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://instagram.com/__aadhiasarana_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/aadhiasaranat">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+  <!-- Optional: update the Facebook link to a valid URL without @ or spaces -->
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+</p>
+
+## 💻 Tech Stack (logos only)
 
 <p align="center">
-  <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-  <!-- Python -->
+  <!-- Core -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  <!-- OpenCV -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
-  <!-- Android -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48" height="48" alt="Android" />
-  <!-- Firebase -->
+
+  <!-- Web/App -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+
+  <!-- Mobile/Cloud/DB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-  <!-- HTML5 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-  <!-- CSS3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+
+  <!-- DS/ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" />
+
+  <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-  <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
 </p>
 
-<!-- Subtle animated divider -->
+<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
 </p>
 
 ## Highlights
 
-<!-- 3D neon wireframe sphere banner -->
+<!-- 3D neon banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/assets/3d-wire-sphere-neon.gif" width="980" alt="3D wireframe neon sphere">
 </p>
 
-<!-- Optional secondary animated line -->
+<!-- Animated subheader -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=700&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&lines=Computer+Vision+Projects;Android+%26+Firebase+Apps;Hackathon-ready+Solutions" alt="Highlights animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=700&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&lines=Web+%26+Mobile+Apps;AI%2FML+Prototypes;Hackathon-ready+Builds" alt="Highlights typing" />
 </p>
 
-## Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AADHIASARANATAMIZHINIAN&show_icons=true&theme=radical&rank_icon=github&hide_border=true&bg_color=00000000" alt="stats card">
-  <img height="170" src="https://streak-stats.demolab.com?user=AADHIASARANATAMIZHINIAN&theme=highcontrast&hide_border=true&background=00000000" alt="streak card">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AADHIASARANATAMIZHINIAN&theme=github_dark_dimmed&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://nirzak-streak-stats.vercel.app?user=AADHIASARANATAMIZHINIAN&theme=github_dark_dimmed&hide_border=true&background=00000000" />
 </p>
 
-<!-- Optional Top Languages compact card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AADHIASARANATAMIZHINIAN&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AADHIASARANATAMIZHINIAN&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&layout=compact" />
 </p>
 
-## Reach
+### ✍ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AADHIASARANATAMIZHINIAN&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=AADHIASARANATAMIZHINIAN&style=flat-square&color=6EE7B7&label=Profile+Views" alt="profile views" />
+  <img src="https://visitcount.itsvg.in/api?id=AADHIASARANATAMIZHINIAN&icon=4&color=9" />
 </p>
