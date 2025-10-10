@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
 </p>
 
-## 💻 Tech Stack (logos only)
+## 💻 Tech Stack
 
 <p align="center">
   <!-- Core -->
