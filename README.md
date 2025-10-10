@@ -9,7 +9,8 @@
 </p>
 
 ## About Me
-<img align="right" src="assets/side.gif" width="160" alt="side gif">
+<img align="right" src="assets/.keep/side.gif"
+  width="160" alt="side gif">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=700&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&lines=Web+%26+App+Development;AI%2FML+systems;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="About animation" />
 </p>
