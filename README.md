@@ -30,5 +30,12 @@
 <img src="https://komarev.com/ghpvc/?username=AADHIASARANATAMIZHINIAN&style=flat-square&color=6EE7B7&label=Profile+Views" alt="profile views">
 
 ## Snake
-<!-- Will appear after the workflow runs and publishes to output branch -->
-![snake animation](https://github.com/AADHIASARANATAMIZHINIAN/AADHIASARANATAMIZHINIAN/blob/output/github-contribution-grid-snake.svg)
+## Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AADHIASARANATAMIZHINIAN&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=700&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&lines=Shipping+Projects+Weekly;Java+%7C+OpenCV+%7C+Web+%7C+Android;Dark+%26+Elegant+UI+Enthusiast" alt="Animated sub header" />
+</p>
