@@ -1,8 +1,7 @@
 <!-- Animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1700&pause=800&color=60A5FA&background=00000000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+AADHIASARANA+T;AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Summoning+Apps+from+Imagination+%F0%9F%8C%8C;B.Tech+AI+%26+DS+%F0%9F%8E%93;From+Logic+to+Magic+%F0%9F%8C%A0" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1700&pause=800&color=60A5FA&background=00000000&center=true&vCenter=true&width=1100&lines=Hi%2C+I'm+AADHIASARANA+T;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Summoning+Apps+from+Imagination+%F0%9F%8C%8C;B.Tech+AI+%26+DS+%F0%9F%8E%93;From+Logic+to+Magic+%F0%9F%8C%A0" alt="Typing intro" />
 </p>
-
 <!-- Slim divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
@@ -111,9 +110,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AADHIASARANATAMIZHINIAN&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
 
----
-
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=AADHIASARANATAMIZHINIAN&icon=4&color=9" />
-</p>
