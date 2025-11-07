@@ -15,8 +15,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1600&pause=700&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&lines=Web+%26+App+Development;AI%2FML+systems;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="About animation" />
 </p>
 
-- 2nd‑year AI&DS student exploring AI/ML, web, and mobile apps.  
-- Currently learning: Python, C, JS; React, Node.js, Flask; Japanese.  
+- B.Tech-AI&DS student exploring AI, web, and mobile apps.  
+- Currently learning: Python, C, JS; MERN; Flask; Japanese.  
 - Goals: Build elegant apps, contribute to open source, and level up daily.  
 - Fun: Tech × creativity, and a bit of 日本語 practice.
 
