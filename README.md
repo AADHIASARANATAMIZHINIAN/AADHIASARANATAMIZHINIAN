@@ -83,17 +83,10 @@
 ## 🎧 Spotify — What I Code With
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=00000000&interchange=false" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zfm45vs4k5kefrhorqgccct5xm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
 </p>
-
-<p align="center">
-  <i>Mostly lo-fi, anime OSTs, and focus playlists.</i>
-</p>
-
-> 🔧 **How to enable Spotify**  
-> - Go to 👉 https://github.com/kittinan/spotify-github-profile  
-> - Get your Spotify User ID  
-> - Replace `YOUR_SPOTIFY_USER_ID` above  
 
 ---
 
