@@ -37,7 +37,7 @@
       </ul>
     </td>
     <td align="center">
-      <img width="190" src="assets/profile.png" alt="Profile Image"/>
+      <img width="190" src="/profile.png" alt="Profile Image"/>
     </td>
   </tr>
 </table>
