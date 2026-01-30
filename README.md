@@ -1,16 +1,13 @@
-<!-- =============================== -->
-<!-- 🌌 AADHIASARANA T — PROFILE -->
-<!-- =============================== -->
-
-<!-- Banner -->
-<div align="center">
-  <img src="./assets/banner.png" alt="AADHI Banner" width="100%">
-</div>
-
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1700&pause=800&color=38BDF8&background=00000000&center=true&vCenter=true&width=1000&lines=Hello+Fellow+%3CDevelopers%2F%3E!;I'm+AADHIASARANA+T;AI+%26+Data+Science+Student;Full+Stack+Web+Developer;From+Logic+to+Clean+Code" />
 </p>
+
+
+<div align="center">
+  <img src="./banner.png" alt="AADHIASARANA T Banner" width="100%" />
+</div>
+
 
 <!-- Divider -->
 <p align="center">
@@ -34,8 +31,9 @@
         <li>💻 Full-stack web developer (learning by building)</li>
         <li>🧠 Interested in practical AI systems & clean design</li>
         <li>🌱 Currently learning: MERN, Flask & core CS</li>
+        <li>🇯🇵 Japanese: JLPT N5 Certified | Currently preparing for N4</li>
         <li>🐧 Daily driver: Arch Linux (btw)</li>
-        <li>💬 Ask me about: Python, JS, Web Dev, Git, Linux</li>
+        <li>💬 Lets Talk about: Python, JS, Web Dev, Git, Linux , Anime </li>
       </ul>
     </td>
     <td align="center">
@@ -48,9 +46,9 @@
 
 ## 🧠 Personal Philosophy
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=6EE7B7&background=00000000&center=true&vCenter=true&width=900&lines=Consistency+%3E+Motivation;Simple+Code+Scales+Better;Build+Small%2C+Learn+Deep;Clarity+Before+Complexity" />
-</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=6EE7B7&background=00000000&center=true&vCenter=true&width=900&lines=Consistency+%3E+Motivation;JLPT+N5+Certified+%7C+N4+In+Progress;Build+Small%2C+Learn+Deep;Clarity+Before+Complexity" />
+
 
 <p align="center">
   <i>"I’m not trying to know everything — I’m trying to understand things properly."</i>
@@ -134,13 +132,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AADHIASARANATAMIZHINIAN&theme=flat&no-frame=true&column=6&margin-w=15"/>
-</p>
-
----
 
 <p align="center">
   ✨ Built with 💻 by <strong>AADHIASARANA T</strong><br/>
